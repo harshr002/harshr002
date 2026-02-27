@@ -1,5 +1,53 @@
 # 💫 About Me:
-Working as an AI Engineer, building and experimenting with AI/ML models<br>AI, Machine Learning, and Data Science projects<br>Advanced MLOps & model deployment (Docker, CI/CD, cloud)<br>Data Science & Machine Learning (advanced concepts)<br><br>AI Engineering: model training, evaluation, deployment<br><br>Deep Learning, NLP, and Generative AI<br><br>Cloud & MLOps tools for production AI systems<br>ask me about<br>Machine Learning & AI fundamentals<br><br>Data Science workflows (EDA → Modeling → Insights)<br><br>Python, SQL, and analytics<br><br>How to build interview-ready AI/Data projects<br> i believe projects + explanation skills matter more than certificates
+🔭 I’m currently working on
+
+Working as an AI Engineer, building and experimenting with AI/ML models
+
+Developing end-to-end projects involving machine learning, data pipelines, and AI applications
+
+Improving real-world problem-solving using data-driven approaches
+
+👯 I’m looking to collaborate on
+
+AI, Machine Learning, and Data Science projects
+
+Real-world use cases involving ML models, data analytics, automation, and AI systems
+
+Open-source or portfolio-worthy projects related to Data Engineering, AI Engineering, and MLOps
+
+🤝 I’m looking for help with
+
+Advanced MLOps & model deployment (Docker, CI/CD, cloud)
+
+Designing scalable data pipelines and production-ready ML systems
+
+Best practices for AI system design and optimization
+
+🌱 I’m currently learning
+
+Data Science & Machine Learning (advanced concepts)
+
+AI Engineering: model training, evaluation, deployment
+
+Deep Learning, NLP, and Generative AI
+
+Cloud & MLOps tools for production AI systems
+
+💬 Ask me about
+
+Machine Learning & AI fundamentals
+
+Data Science workflows (EDA → Modeling → Insights)
+
+Python, SQL, and analytics
+
+How to build interview-ready AI/Data projects
+
+⚡ Fun fact
+
+I believe projects + explanation skills matter more than certificates 🚀
+
+I’m consistently working towards becoming a Data + AI Engineer
 
 
 # 💻 Tech Stack:
