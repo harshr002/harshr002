@@ -1,5 +1,5 @@
 # 💫 About Me:
-** I’m currently working on**
+****I’m currently working on****
 
 Working as an AI Engineer, building and experimenting with AI/ML models
 
@@ -15,8 +15,8 @@ Real-world use cases involving ML models, data analytics, automation, and AI sys
 
 Open-source or portfolio-worthy projects related to Data Engineering, AI Engineering, and MLOps
 
- I’m looking for help with**
-**
+**I’m looking for help with**
+
 Advanced MLOps & model deployment (Docker, CI/CD, cloud)
 
 Designing scalable data pipelines and production-ready ML systems
@@ -43,7 +43,7 @@ Python, SQL, and analytics
 
 How to build interview-ready AI/Data projects
 
-** Fun fact**
+**Fun fact**
 
 I believe projects + explanation skills matter more than certificates 🚀
 
