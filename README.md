@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Harsh Roy</h1>
-<h3 align="center">AI Engineer | Data Engineer | ML Engineer</h3>
-
 <p align="center">
-  <em>I believe projects + explanation skills matter more than certificates 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:B8860B&height=200&section=header&text=Harsh%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20ML%20Engineer&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=0" alt="visitor count" /></a>
+  <a href="https://github.com/harshr002">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI%2FML+systems+end-to-end;Projects+%2B+explanation+skills+%3E+certificates+%F0%9F%9A%80;Currently+exploring+GenAI+%26+MLOps&font=Fira+Code&center=true&width=600&height=40&color=B8860B&vCenter=true&size=20" alt="typing animation" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=6" alt="visitor count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
+</p>
 
 ## 💫 About Me
 
@@ -40,9 +45,13 @@
 - Python, SQL, and analytics
 - Building interview-ready AI/Data projects
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
+</p>
 
 ## 💻 Tech Stack
+
+<p align="center"><sub>Every tool listed below — organized so it's actually scannable</sub></p>
 
 **Languages**
 
@@ -80,37 +89,41 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshr002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Harsh's GitHub stats"/>
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=harshr002&theme=dark&hide_border=false" alt="Harsh's streak stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshr002&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=B8860B&icon_color=B8860B" alt="Harsh's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshr002&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=B8860B" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshr002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages"/>
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=harshr002&theme=tokyonight&hide_border=true&background=0D1117&ring=B8860B&fire=B8860B&currStreakLabel=B8860B" alt="Harsh's streak stats"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshr002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshr002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 </p>
 
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=harshr002&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repo"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=harshr002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repo"/>
 </p>
 
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:2c5364,100:0f2027&height=120&section=footer" alt="footer banner" />
+</p>
 
 <p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
