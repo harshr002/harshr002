@@ -51,7 +51,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center"><sub>Every tool listed below — organized so it's actually scannable</sub></p>
+
 
 **Languages**
 
