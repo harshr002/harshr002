@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:B8860B&height=200&section=header&text=Harsh%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20ML%20Engineer&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
