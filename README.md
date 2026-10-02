@@ -2,14 +2,11 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Harsh Roy — AI Engineer, Data Engineer, ML Engineer" />
 
-<a href="https://github.com/harshr002">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=B8860B&center=true&vCenter=true&width=640&height=42&lines=%3E+shipping+ML+systems+from+raw+data+to+production;%3E+projects+%2B+explanation+%3E+certificates;%3E+now+exploring%3A+GenAI+%C2%B7+LLMs+%C2%B7+MLOps" alt="typing" />
-</a>
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-B8860B?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FOCUS-GENAI_%2F_MLOPS-2c5364?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-GENAI_%2F_LLMs_%2F_MLOPS-2c5364?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MOTTO-PROJECTS_%3E_CERTIFICATES-F5D78E?style=for-the-badge&labelColor=0d1117" />
 <img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=6" alt="visitor count" />
 
 </div>
@@ -18,42 +15,11 @@
 
 ## 🧬 About Me
 
-```python
-class HarshRoy(Engineer):
-    """AI Engineer · Data Engineer · ML Engineer"""
+<img src="./assets/terminal.svg" width="100%" alt="whoami: Harsh Roy. Building end-to-end ML systems and data pipelines. Learning deep learning, NLP, generative AI, MLOps and cloud. Open to AI/ML, open-source and data engineering collaborations. Ask me about ML fundamentals, EDA to insights, Python and SQL, and interview-ready projects." />
 
-    def __init__(self):
-        self.building = [
-            "End-to-end ML systems: data → model → deployment",
-            "Data pipelines that feed real AI applications",
-            "Data-driven solutions to real-world problems",
-        ]
-        self.learning     = ["Deep Learning", "NLP", "Generative AI", "Cloud & MLOps"]
-        self.collab_on    = ["AI / ML / Data Science projects", "Open source", "Data Eng & MLOps"]
-        self.seeking_help = ["Docker, CI/CD & cloud deployment", "Scalable pipelines", "AI system design"]
-        self.ask_me_about = ["ML & AI fundamentals", "EDA → Modeling → Insights",
-                             "Python, SQL & analytics", "Interview-ready AI/Data projects"]
+## ⚙️ How I Build
 
-    def philosophy(self) -> str:
-        return "Projects + the ability to explain them > certificates."
-```
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 Models</h3>
-      Training, evaluating and shipping ML/DL models, with a growing focus on NLP and LLM-powered apps.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛠️ Pipelines</h3>
-      Moving data reliably with Spark, Kafka and Airflow so the models downstream have something worth learning from.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 Production</h3>
-      Docker, CI/CD and cloud: the part where a notebook becomes a service people can actually use.
-    </td>
-  </tr>
-</table>
+<img src="./assets/pipeline.svg" width="100%" alt="Data → Pipeline → Model → Serve → Impact" />
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -124,10 +90,4 @@ class HarshRoy(Engineer):
   <img width="100%" alt="Contribution snake eating the commit graph" src="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
 </picture>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
-
-<sub><code>process.exit(0)</code> · thanks for scrolling this far</sub>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="signal.end()" />
