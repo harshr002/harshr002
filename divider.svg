@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="8" viewBox="0 0 1000 8">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1">
+      <stop offset="0" stop-color="#2c5364" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B8860B" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#2c5364" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" gradientUnits="userSpaceOnUse" x1="0" x2="160">
+      <stop offset="0" stop-color="#F5D78E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFF4D6" stop-opacity="1"/>
+      <stop offset="1" stop-color="#F5D78E" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-200 0;1100 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect y="3" width="1000" height="2" fill="url(#base)"/>
+  <rect y="2.5" width="1000" height="3" fill="url(#spark)"/>
+</svg>
