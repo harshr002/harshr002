@@ -1,53 +1,61 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:B8860B&height=200&section=header&text=Harsh%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20ML%20Engineer&descAlignY=58&descSize=20" alt="header banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/harshr002">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI%2FML+systems+end-to-end;Projects+%2B+explanation+skills+%3E+certificates+%F0%9F%9A%80;Currently+exploring+GenAI+%26+MLOps&font=Fira+Code&center=true&width=600&height=40&color=B8860B&vCenter=true&size=20" alt="typing animation" />
-  </a>
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Harsh Roy — AI Engineer, Data Engineer, ML Engineer" />
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=6" alt="visitor count" />
-</p>
+<a href="https://github.com/harshr002">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=B8860B&center=true&vCenter=true&width=640&height=42&lines=%3E+shipping+ML+systems+from+raw+data+to+production;%3E+projects+%2B+explanation+%3E+certificates;%3E+now+exploring%3A+GenAI+%C2%B7+LLMs+%C2%B7+MLOps" alt="typing" />
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
-</p>
+<br/>
 
-## 💫 About Me
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-B8860B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-GENAI_%2F_MLOPS-2c5364?style=for-the-badge&labelColor=0d1117" />
+<img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=6" alt="visitor count" />
 
-**🔭 Currently working on**
-- Building and experimenting with AI/ML models as an AI Engineer
-- Developing end-to-end projects involving machine learning, data pipelines, and AI applications
-- Improving real-world problem-solving using data-driven approaches
+</div>
 
-**🌱 Currently learning**
-- Advanced Data Science & Machine Learning concepts
-- AI Engineering: model training, evaluation, and deployment
-- Deep Learning, NLP, and Generative AI
-- Cloud & MLOps tools for production AI systems
+<img src="./assets/divider.svg" width="100%" />
 
-**🤝 Looking to collaborate on**
-- AI, Machine Learning, and Data Science projects
-- Real-world use cases involving ML models, data analytics, and automation
-- Open-source or portfolio-worthy projects in Data Engineering, AI Engineering, and MLOps
+## 🧬 About Me
 
-**🆘 Looking for help with**
-- Advanced MLOps & model deployment (Docker, CI/CD, cloud)
-- Designing scalable data pipelines and production-ready ML systems
-- Best practices for AI system design and optimization
+```python
+class HarshRoy(Engineer):
+    """AI Engineer · Data Engineer · ML Engineer"""
 
-**💬 Ask me about**
-- Machine Learning & AI fundamentals
-- Data Science workflows (EDA → Modeling → Insights)
-- Python, SQL, and analytics
-- Building interview-ready AI/Data projects
+    def __init__(self):
+        self.building = [
+            "End-to-end ML systems: data → model → deployment",
+            "Data pipelines that feed real AI applications",
+            "Data-driven solutions to real-world problems",
+        ]
+        self.learning     = ["Deep Learning", "NLP", "Generative AI", "Cloud & MLOps"]
+        self.collab_on    = ["AI / ML / Data Science projects", "Open source", "Data Eng & MLOps"]
+        self.seeking_help = ["Docker, CI/CD & cloud deployment", "Scalable pipelines", "AI system design"]
+        self.ask_me_about = ["ML & AI fundamentals", "EDA → Modeling → Insights",
+                             "Python, SQL & analytics", "Interview-ready AI/Data projects"]
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
-</p>
+    def philosophy(self) -> str:
+        return "Projects + the ability to explain them > certificates."
+```
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Models</h3>
+      Training, evaluating and shipping ML/DL models, with a growing focus on NLP and LLM-powered apps.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛠️ Pipelines</h3>
+      Moving data reliably with Spark, Kafka and Airflow so the models downstream have something worth learning from.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Production</h3>
+      Docker, CI/CD and cloud: the part where a notebook becomes a service people can actually use.
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
 
 ## 💻 Tech Stack
 
@@ -89,41 +97,37 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:B8860B&height=3&width=1000" />
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
-## 📊 GitHub Stats
+## 📡 GitHub Telemetry
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshr002&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=B8860B&icon_color=B8860B" alt="Harsh's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshr002&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=B8860B" alt="Top languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=harshr002&theme=tokyonight&hide_border=true&background=0D1117&ring=B8860B&fire=B8860B&currStreakLabel=B8860B" alt="Harsh's streak stats"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshr002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=F5D78E&text_color=c9d1d9&ring_color=B8860B&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshr002&layout=compact&hide_border=true&bg_color=0d1117&title_color=B8860B&text_color=c9d1d9&border_radius=12" alt="Top languages" />
 
-## 🏆 GitHub Trophies
+<img width="85%" src="https://nirzak-streak-stats.vercel.app/?user=harshr002&hide_border=true&background=0D1117&ring=B8860B&fire=F5D78E&currStreakLabel=B8860B&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6e7681&stroke=2c5364&border_radius=12" alt="Streak stats" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshr002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshr002&bg_color=0d1117&color=c9d1d9&line=B8860B&point=F5D78E&area=true&area_color=B8860B&hide_border=true&radius=12&custom_title=Contribution%20signal" alt="Contribution activity graph" />
 
-## 🔝 Top Contributed Repo
+<img src="https://github-profile-trophy.vercel.app/?username=harshr002&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=harshr002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repo"/>
-</p>
+</div>
 
-### ✍️ Random Dev Quote
+<img src="./assets/divider.svg" width="100%" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</p>
+## 🐍 Commit Stream
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:2c5364,100:0f2027&height=120&section=footer" alt="footer banner" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake eating the commit graph" src="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
+</picture>
 
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
+<sub><code>process.exit(0)</code> · thanks for scrolling this far</sub>
+
+</div>
