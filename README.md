@@ -67,16 +67,20 @@
 
 ## 📡 GitHub Telemetry
 
+## 📡 GitHub Telemetry
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshr002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=F5D78E&text_color=c9d1d9&ring_color=B8860B&border_radius=12" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshr002&layout=compact&hide_border=true&bg_color=0d1117&title_color=B8860B&text_color=c9d1d9&border_radius=12" alt="Top languages" />
 
-<img width="85%" src="https://nirzak-streak-stats.vercel.app/?user=harshr002&hide_border=true&background=0D1117&ring=B8860B&fire=F5D78E&currStreakLabel=B8860B&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6e7681&stroke=2c5364&border_radius=12" alt="Streak stats" />
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshr002&bg_color=0d1117&color=c9d1d9&line=B8860B&point=F5D78E&area=true&area_color=B8860B&hide_border=true&radius=12&custom_title=Contribution%20signal" alt="Contribution activity graph" />
+<img width="90%" src="https://streak-stats.demolab.com?user=harshr002&hide_border=true&background=0D1117&ring=B8860B&fire=F5D78E&currStreakLabel=F5D78E&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e&stroke=2c5364&border_radius=12" alt="Streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshr002&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshr002&theme=github_dark" alt="Contribution activity" />
 
 </div>
 
