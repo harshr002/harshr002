@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1016"/><stop offset="1" stop-color="#0f2027"/></linearGradient>
+ <linearGradient id="track" x1="0" x2="1"><stop offset="0" stop-color="#2c5364"/><stop offset=".5" stop-color="#B8860B"/><stop offset="1" stop-color="#2c5364"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151c24"/><stop offset="1" stop-color="#0c1117"/></linearGradient>
+ <filter id="soft" x="-200%" y="-400%" width="500%" height="900%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B8860B" opacity=".12"/></pattern>
+ <clipPath id="f"><rect width="1200" height="300" rx="16"/></clipPath>
+</defs><g clip-path="url(#f)">
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#dots)"/>
+<text x="36" y="44" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8b949e"><tspan fill="#F5D78E">❯</tspan> pipeline.run()  <tspan fill="#6e7681">// how I take raw data all the way to production</tspan></text>
+<rect x="30" y="159" width="1140" height="2" fill="url(#track)" opacity=".7"/>
+<rect width="14" height="4" rx="2" y="158" fill="#F5D78E" filter="url(#soft)"><animateMotion dur="5s" begin="0.0s" repeatCount="indefinite" path="M30 0H1170"/></rect>
+<rect width="14" height="4" rx="2" y="158" fill="#F5D78E" filter="url(#soft)"><animateMotion dur="5s" begin="-1.0s" repeatCount="indefinite" path="M30 0H1170"/></rect>
+<rect width="14" height="4" rx="2" y="158" fill="#F5D78E" filter="url(#soft)"><animateMotion dur="5s" begin="-2.0s" repeatCount="indefinite" path="M30 0H1170"/></rect>
+<rect width="14" height="4" rx="2" y="158" fill="#F5D78E" filter="url(#soft)"><animateMotion dur="5s" begin="-3.0s" repeatCount="indefinite" path="M30 0H1170"/></rect>
+<rect width="14" height="4" rx="2" y="158" fill="#F5D78E" filter="url(#soft)"><animateMotion dur="5s" begin="-4.0s" repeatCount="indefinite" path="M30 0H1170"/></rect>
+<rect x="35" y="104" width="190" height="112" rx="14" fill="url(#card)" stroke="#B8860B" stroke-opacity=".28"/>
+<rect x="35" y="104" width="190" height="112" rx="14" fill="#B8860B" fill-opacity=".06" stroke="#F5D78E" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.12;.3;1" dur="5s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="70" y="104" width="120" height="3" rx="1.5" fill="#F5D78E" opacity=".25"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="52" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#B8860B">01</text>
+<circle cx="206" cy="128" r="4" fill="#3fb950"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="0s" repeatCount="indefinite"/></circle>
+<text x="130" y="168" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#FFFFFF">DATA</text>
+<text x="130" y="194" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">Kafka · SQL · APIs</text>
+<path d="M242.5 154L250.5 160L242.5 166" fill="none" stroke="#F5D78E" stroke-width="2"/>
+<rect x="270" y="104" width="190" height="112" rx="14" fill="url(#card)" stroke="#B8860B" stroke-opacity=".28"/>
+<rect x="270" y="104" width="190" height="112" rx="14" fill="#B8860B" fill-opacity=".06" stroke="#F5D78E" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.12;.3;1" dur="5s" begin="1s" repeatCount="indefinite"/></rect>
+<rect x="305" y="104" width="120" height="3" rx="1.5" fill="#F5D78E" opacity=".25"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="1s" repeatCount="indefinite"/></rect>
+<text x="287" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#B8860B">02</text>
+<circle cx="441" cy="128" r="4" fill="#3fb950"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
+<text x="365" y="168" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#FFFFFF">PIPELINE</text>
+<text x="365" y="194" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">Spark · Airflow</text>
+<path d="M477.5 154L485.5 160L477.5 166" fill="none" stroke="#F5D78E" stroke-width="2"/>
+<rect x="505" y="104" width="190" height="112" rx="14" fill="url(#card)" stroke="#B8860B" stroke-opacity=".28"/>
+<rect x="505" y="104" width="190" height="112" rx="14" fill="#B8860B" fill-opacity=".06" stroke="#F5D78E" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.12;.3;1" dur="5s" begin="2s" repeatCount="indefinite"/></rect>
+<rect x="540" y="104" width="120" height="3" rx="1.5" fill="#F5D78E" opacity=".25"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="2s" repeatCount="indefinite"/></rect>
+<text x="522" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#B8860B">03</text>
+<circle cx="676" cy="128" r="4" fill="#3fb950"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+<text x="600" y="168" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#FFFFFF">MODEL</text>
+<text x="600" y="194" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">PyTorch · TensorFlow</text>
+<path d="M712.5 154L720.5 160L712.5 166" fill="none" stroke="#F5D78E" stroke-width="2"/>
+<rect x="740" y="104" width="190" height="112" rx="14" fill="url(#card)" stroke="#B8860B" stroke-opacity=".28"/>
+<rect x="740" y="104" width="190" height="112" rx="14" fill="#B8860B" fill-opacity=".06" stroke="#F5D78E" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.12;.3;1" dur="5s" begin="3s" repeatCount="indefinite"/></rect>
+<rect x="775" y="104" width="120" height="3" rx="1.5" fill="#F5D78E" opacity=".25"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="3s" repeatCount="indefinite"/></rect>
+<text x="757" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#B8860B">04</text>
+<circle cx="911" cy="128" r="4" fill="#3fb950"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="3s" repeatCount="indefinite"/></circle>
+<text x="835" y="168" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#FFFFFF">SERVE</text>
+<text x="835" y="194" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">FastAPI · Docker · K8s</text>
+<path d="M947.5 154L955.5 160L947.5 166" fill="none" stroke="#F5D78E" stroke-width="2"/>
+<rect x="975" y="104" width="190" height="112" rx="14" fill="url(#card)" stroke="#B8860B" stroke-opacity=".28"/>
+<rect x="975" y="104" width="190" height="112" rx="14" fill="#B8860B" fill-opacity=".06" stroke="#F5D78E" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.12;.3;1" dur="5s" begin="4s" repeatCount="indefinite"/></rect>
+<rect x="1010" y="104" width="120" height="3" rx="1.5" fill="#F5D78E" opacity=".25"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="4s" repeatCount="indefinite"/></rect>
+<text x="992" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#B8860B">05</text>
+<circle cx="1146" cy="128" r="4" fill="#3fb950"><animate attributeName="opacity" values=".25;1;.25;.25" keyTimes="0;.12;.3;1" dur="5s" begin="4s" repeatCount="indefinite"/></circle>
+<text x="1070" y="168" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#FFFFFF">IMPACT</text>
+<text x="1070" y="194" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">insights · products</text>
+<text x="600.0" y="264" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#6e7681">raw data in → decisions out  ·  every stage versioned, tested, monitored</text>
+</g><rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#B8860B" stroke-opacity=".3"/></svg>
