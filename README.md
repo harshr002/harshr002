@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Harsh Roy — AI Engineer, Data Engineer, ML Engineer" />
+<img src="./hero.svg" width="100%" alt="Harsh Roy — AI Engineer, Data Engineer, ML Engineer" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-B8860B?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/FOCUS-GENAI_%2F_LLMs_%2F_MLOPS-2c5364?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MOTTO-PROJECTS_%3E_CERTIFICATES-F5D78E?style=for-the-badge&labelColor=0d1117" />
-<img src="https://visitcount.itsvg.in/api?id=harshr002&icon=0&color=6" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=harshr002&label=PROFILE%20VIEWS&color=B8860B&style=for-the-badge" alt="profile views" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 🧬 About Me
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami: Harsh Roy. Building end-to-end ML systems and data pipelines. Learning deep learning, NLP, generative AI, MLOps and cloud. Open to AI/ML, open-source and data engineering collaborations. Ask me about ML fundamentals, EDA to insights, Python and SQL, and interview-ready projects." />
+<img src="./terminal.svg" width="100%" alt="whoami: Harsh Roy. Building end-to-end ML systems and data pipelines. Learning deep learning, NLP, generative AI, MLOps and cloud. Open to AI/ML, open-source and data engineering collaborations." />
 
 ## ⚙️ How I Build
 
-<img src="./assets/pipeline.svg" width="100%" alt="Data → Pipeline → Model → Serve → Impact" />
+<img src="./pipeline.svg" width="100%" alt="Data → Pipeline → Model → Serve → Impact" />
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 💻 Tech Stack
 
@@ -63,7 +63,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 📡 GitHub Telemetry
 
@@ -80,14 +80,14 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 🐍 Commit Stream
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake.svg" />
-  <img width="100%" alt="Contribution snake eating the commit graph" src="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
 </picture>
 
-<img src="./assets/footer.svg" width="100%" alt="signal.end()" />
+<img src="./footer.svg" width="100%" alt="signal.end()" />
