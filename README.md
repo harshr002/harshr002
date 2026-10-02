@@ -67,8 +67,6 @@
 
 ## 📡 GitHub Telemetry
 
-## 📡 GitHub Telemetry
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshr002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=F5D78E&text_color=c9d1d9&ring_color=B8860B&border_radius=12" alt="GitHub stats" />
