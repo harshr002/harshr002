@@ -15,11 +15,58 @@
 
 ## 🧬 About Me
 
-<img src="./terminal.svg" width="100%" alt="whoami: Harsh Roy. Building end-to-end ML systems and data pipelines. Learning deep learning, NLP, generative AI, MLOps and cloud. Open to AI/ML, open-source and data engineering collaborations." />
+<img src="./terminal.svg" width="100%" alt="whoami: Harsh Roy. Building end-to-end ML systems and data pipelines. Learning deep learning, NLP, generative AI, MLOps and cloud." />
 
 ## ⚙️ How I Build
 
 <img src="./pipeline.svg" width="100%" alt="Data → Pipeline → Model → Serve → Impact" />
+
+<img src="./divider.svg" width="100%" />
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/Enterprise_GPT"><img src="./project-enterprise-gpt.svg" width="100%" /></a>
+<br/>
+<a href="https://enterprise-gpt-prk1.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-B8860B?style=for-the-badge&logo=render&logoColor=0d1117" /></a>
+<a href="https://github.com/harshr002/Enterprise_GPT"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/JOBhuntOS"><img src="./project-jobhuntos.svg" width="100%" /></a>
+<br/>
+<a href="https://jobhuntos-1.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-B8860B?style=for-the-badge&logo=render&logoColor=0d1117" /></a>
+<a href="https://github.com/harshr002/JOBhuntOS"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/MarketSense"><img src="./project-marketsense.svg" width="100%" /></a>
+<br/>
+<a href="https://market-sense-mu.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-B8860B?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/harshr002/MarketSense"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/terra-twin"><img src="./project-terratwin.svg" width="100%" /></a>
+<br/>
+<a href="https://terra-twin-production.up.railway.app/docs"><img src="https://img.shields.io/badge/LIVE_API-B8860B?style=for-the-badge&logo=railway&logoColor=0d1117" /></a>
+<a href="https://github.com/harshr002/terra-twin"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/valura-ai-microservice"><img src="./project-valura.svg" width="100%" /></a>
+<br/>
+<a href="https://github.com/harshr002/valura-ai-microservice"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/harshr002/infosysi-ai"><img src="./project-infosysi.svg" width="100%" /></a>
+<br/>
+<a href="https://github.com/harshr002/infosysi-ai"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+</td>
+</tr>
+</table>
 
 <img src="./divider.svg" width="100%" />
 
@@ -53,6 +100,7 @@
 <td align="center"><b>🤖 GenAI & LLMs</b></td>
 <td>
 <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=meta&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=F5D78E" />
@@ -65,6 +113,7 @@
 <img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logo=readme&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Fine--Tuning_(LoRA)-0d1117?style=flat-square&logo=pytorch&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/FinBERT-0d1117?style=flat-square&logo=huggingface&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Gradio-0d1117?style=flat-square&logo=gradio&logoColor=F5D78E" />
 </td>
 </tr>
@@ -85,16 +134,23 @@
 <td align="center"><b>⚙️ Backend</b></td>
 <td>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,express,spring,dotnet,nodejs&titles=true" />
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socketdotio&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/SSE_Streaming-0d1117?style=flat-square&logo=fastapi&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=F5D78E" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>🎨 Frontend</b></td>
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nuxtjs,angular,redux,bootstrap,sass,jquery,flutter&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,ts,vite,nuxtjs,angular,redux,bootstrap,sass,jquery,flutter&titles=true" />
 <br/>
 <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logo=react&logoColor=F5D78E" />
 </td>
 </tr>
 
@@ -116,6 +172,7 @@
 <img src="https://img.shields.io/badge/Apache_Hive-0d1117?style=flat-square&logo=apachehive&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Apache_Flink-0d1117?style=flat-square&logo=apacheflink&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Apache_Ant-0d1117?style=flat-square&logo=apacheant&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Medallion_Architecture-0d1117?style=flat-square&logo=databricks&logoColor=F5D78E" />
 </td>
 </tr>
 
@@ -137,6 +194,9 @@
 <td>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,jenkins,githubactions,gitlab,raspberrypi&titles=true" />
 <br/>
+<img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=F5D78E" />
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/OpenStack-0d1117?style=flat-square&logo=openstack&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Cisco-0d1117?style=flat-square&logo=cisco&logoColor=F5D78E" />
@@ -160,7 +220,7 @@
 <tr>
 <td align="center"><b>🧰 Tools & Platforms</b></td>
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,selenium,notion&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,selenium,notion&titles=true" />
 <br/>
 <img src="https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=F5D78E" />
 <img src="https://img.shields.io/badge/Gitpod-0d1117?style=flat-square&logo=gitpod&logoColor=F5D78E" />
@@ -210,5 +270,23 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake.svg" />
   <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/harshr002/harshr002/output/github-snake-dark.svg" />
 </picture>
+
+<img src="./divider.svg" width="100%" />
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/harsh-roy-987068230"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F5D78E" /></a>
+<a href="mailto:harsh02roy@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=F5D78E" /></a>
+<a href="https://leetcode.com/u/Harsh_hr/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F5D78E" /></a>
+<a href="https://instagram.com/harsh._.roy"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F5D78E" /></a>
+<a href="https://github.com/harshr002"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Harsh_hr/"><img src="https://leetcard.jacoblin.cool/Harsh_hr?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="80%" alt="LeetCode stats" /></a>
+
+</div>
 
 <img src="./footer.svg" width="100%" alt="signal.end()" />
