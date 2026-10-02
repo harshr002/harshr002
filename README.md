@@ -280,7 +280,7 @@
 <a href="https://linkedin.com/in/harsh-roy-987068230"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F5D78E" /></a>
 <a href="mailto:harsh02roy@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=F5D78E" /></a>
 <a href="https://leetcode.com/u/Harsh_hr/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F5D78E" /></a>
-<a href="https://instagram.com/harsh._.roy"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F5D78E" /></a>
+<a href="https://instagram.com/harsh.__.roy"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F5D78E" /></a>
 <a href="https://github.com/harshr002"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=F5D78E" /></a>
 
 <br/><br/>
