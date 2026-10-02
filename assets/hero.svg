@@ -1,1 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080d"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f2027"/>
+    </linearGradient>
+    <radialGradient id="glowGold" cx="0.78" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#B8860B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#B8860B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTeal" cx="0.12" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#2c5364" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2c5364" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#B8860B" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#F5D78E"/>
+      <stop offset="1" stop-color="#D9A53A"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8860B"/>
+      <stop offset="1" stop-color="#B8860B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+    <clipPath id="typeClip">
+      <rect x="70" y="190" height="40" width="0">
+        <animate attributeName="width" from="0" to="640" dur="2.2s" begin="1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
 
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#glowTeal)"/>
+    <rect width="1200" height="360" fill="url(#glowGold)"/>
+
+    <rect x="0" y="-40" width="1200" height="440" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 40" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0" y="0" width="1200" height="2" fill="#F5D78E" opacity="0.12">
+      <animate attributeName="y" from="-10" to="370" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="70" y="88" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#6e7681">
+      <tspan fill="#B8860B">harshr002</tspan><tspan fill="#6e7681">@github</tspan><tspan fill="#c9d1d9"> ~ </tspan><tspan fill="#B8860B">$</tspan><tspan fill="#c9d1d9"> ./boot --profile</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+    </text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.9s" fill="freeze"/>
+      <text x="66" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="4" fill="#B8860B" opacity="0.45" filter="url(#glow)">HARSH ROY</text>
+      <text x="66" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="4" fill="url(#nameGrad)">HARSH ROY</text>
+    </g>
+
+    <rect x="70" y="188" width="0" height="2" fill="url(#rule)">
+      <animate attributeName="width" from="0" to="520" begin="0.8s" dur="1s" fill="freeze"/>
+    </rect>
+
+    <g clip-path="url(#typeClip)">
+      <text x="70" y="220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="2" fill="#c9d1d9">AI Engineer <tspan fill="#B8860B">/</tspan> Data Engineer <tspan fill="#B8860B">/</tspan> ML Engineer</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.6s" fill="freeze"/>
+      <rect x="70" y="252" width="402" height="38" rx="19" fill="#B8860B" fill-opacity="0.08" stroke="#B8860B" stroke-opacity="0.45"/>
+      <circle cx="92" cy="271" r="5" fill="#3fb950" filter="url(#soft)">
+        <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="108" y="276" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">online — building AI systems end-to-end</text>
+    </g>
+
+    <text x="790" y="54" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#6e7681">model.forward(x)  <tspan fill="#B8860B">// live</tspan></text>
+
+    <g stroke="#B8860B" stroke-width="1.5" stroke-dasharray="4 6" fill="none" opacity="0.6">
+      <path d="M750 110H811"/><path d="M750 180H811"/><path d="M750 250H811"/>
+      <path d="M1089 150H1150"/><path d="M1089 210H1150"/>
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.8s" repeatCount="indefinite"/>
+    </g>
+
+    <g stroke="#4a8399" stroke-opacity="0.45" stroke-width="1.2">
+      <path d="M820 110L950 80M820 110L950 140M820 110L950 200M820 110L950 260"/>
+      <path d="M820 180L950 80M820 180L950 140M820 180L950 200M820 180L950 260"/>
+      <path d="M820 250L950 80M820 250L950 140M820 250L950 200M820 250L950 260"/>
+      <path d="M950 80L1080 150M950 80L1080 210M950 140L1080 150M950 140L1080 210"/>
+      <path d="M950 200L1080 150M950 200L1080 210M950 260L1080 150M950 260L1080 210"/>
+    </g>
+
+    <g fill="#F5D78E" filter="url(#soft)">
+      <circle r="3.5"><animateMotion dur="2.4s" repeatCount="indefinite" path="M820 110L950 140L1080 150"/></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M820 250L950 200L1080 210"/></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M820 180L950 80L1080 150"/></circle>
+      <circle r="3.5"><animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite" path="M820 180L950 260L1080 210"/></circle>
+    </g>
+
+    <g fill="#0d1117" stroke="#B8860B" stroke-width="2">
+      <circle cx="820" cy="110" r="10"/><circle cx="820" cy="180" r="10"/><circle cx="820" cy="250" r="10"/>
+      <circle cx="950" cy="80" r="10"/><circle cx="950" cy="140" r="10"/><circle cx="950" cy="200" r="10"/><circle cx="950" cy="260" r="10"/>
+      <circle cx="1080" cy="150" r="12"/><circle cx="1080" cy="210" r="12"/>
+    </g>
+    <g fill="#F5D78E">
+      <circle cx="820" cy="110" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="180" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="250" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="80" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="140" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="200" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="260" r="3.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="150" r="5"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="210" r="5"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <text x="790" y="312" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#6e7681">loss <tspan fill="#B8860B">0.0042</tspan>   epoch <tspan fill="#B8860B">∞</tspan>   status <tspan fill="#3fb950">converging</tspan></text>
+
+    <g stroke="#B8860B" stroke-width="2" fill="none" opacity="0.7">
+      <path d="M28 58V28H58"/><path d="M1142 28H1172V58"/>
+      <path d="M28 302V332H58"/><path d="M1142 332H1172V302"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="20" fill="none" stroke="#B8860B" stroke-opacity="0.25"/>
+</svg>
